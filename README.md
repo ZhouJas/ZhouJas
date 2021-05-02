@@ -2,7 +2,7 @@
 
 My name is Jason and I am a Software Engineering student at the University of Waterloo, and I am currently working as a Full Stack Engineer at [the Royal Bank of Canada](https://www.rbc.com/our-company/index.html) for the summer!
 
-#### ⚡I am open for Winter 2022 software development internships! (Jan-April)
+#### ⚡I am open for Winter 2022 internships for software development! (Jan-April)
 #### Tech Stack
 * :hammer_and_wrench: Languages: 
   * C, C++, JavaScript, Python, C#, Java, Typescript, PHP, Angular
