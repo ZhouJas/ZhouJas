@@ -1,16 +1,16 @@
 ### Hello, ZhouJas here! 👋
 
-My name is Jason and I am a Software Engineering student at the University of Waterloo, and I am currently working as a Full Stack Engineer at [the Royal Bank of Canada](https://www.rbc.com/our-company/index.html) for the summer!
+My name is Jason Zhou and I am a Software Engineering student at the University of Waterloo. I am currently working as a Full Stack Engineer at [the Royal Bank of Canada](https://www.rbc.com/our-company/index.html) for the summer! 
 
-#### ⚡I am open for Winter 2022 internships for software development! (Jan-April)
+#### ⚡I am open for Winter 2022 software development internships! (Jan-April)
 #### Tech Stack
 * :hammer_and_wrench: Languages: 
-  * C, C++, JavaScript, Python, C#, Java, Typescript, PHP, Angular
+  * C, C++, JavaScript, Python, C#, Java, Typescript, PHP
 * 💻 Technologies:
   * Node.js, Java Spring Boot, Angular, MongoDB, Git
 
 
-#### You can reach me here 📫
+#### Feel free to contact me through these links! 📫
 * [Linkedin](https://www.linkedin.com/in/zhoujas/)
 * [Instagram](https://www.instagram.com/zhou.jzy/)
 * Email: [Jason.Zhou@uwaterloo.ca](mailto:jason.zhou@uwaterloo.ca)
