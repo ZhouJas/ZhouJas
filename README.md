@@ -6,15 +6,17 @@ My name is Jason and I am a Software Engineering student at the University of Wa
 #### Tech Stack
 * :hammer_and_wrench: Languages: 
   * C, C++, JavaScript, Python, C#, Java, Typescript, PHP, Angular
-* :Computer: Technologies:
+* 💻 Technologies:
   * Node.js, Java Spring Boot, Angular, MongoDB, Git
-* :pencil2: Interested in/Currently learning: 
-  * React.js, Vue, Express.js, Ruby on Rails, Django
+
 
 #### You can reach me here 📫
 * [Linkedin](https://www.linkedin.com/in/zhoujas/)
 * [Instagram](https://www.instagram.com/zhou.jzy/)
 * Email: [Jason.Zhou@uwaterloo.ca](mailto:jason.zhou@uwaterloo.ca)
+
+<!--* :pencil2: Interested in/Currently learning: 
+  * React.js, Vue, Express.js, Ruby on Rails, Django-->
 <!--
 **ZhouJas/ZhouJas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
