@@ -12,7 +12,6 @@ My name is Jason Zhou and I am a Software Engineering student at the University 
 
 #### Feel free to contact me through these links! 📫
 * [Linkedin](https://www.linkedin.com/in/zhoujas/)
-* [Instagram](https://www.instagram.com/zhou.jzy/)
 * Email: [Jason.Zhou@uwaterloo.ca](mailto:jason.zhou@uwaterloo.ca)
 
 <!--* :pencil2: Interested in/Currently learning: 
