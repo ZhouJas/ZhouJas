@@ -2,12 +2,12 @@
 
 My name is Jason Zhou and I am a Software Engineering student at the University of Waterloo.
 
-#### ⚡I am open for Winter 2022 internships! (Jan-April)
+#### ⚡I am open for Fall 2022 internships!
 #### Tech Stack
 * :hammer_and_wrench: Languages: 
-  * TypeScript, Python, Java, JavaScript, C/C++, C#, HTML/CSS, PHP
+  * TypeScript, Python, Java, JavaScript, C/C++, C#, HTML/CSS
 * 💻 Technologies:
-  * Node.js, Java Spring Boot, Angular, MongoDB, Git
+  * Node.js, Java Spring Boot, Angular, React, MongoDB, Git
 
 
 #### Feel free to contact me through these links! 📫
