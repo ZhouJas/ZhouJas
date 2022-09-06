@@ -2,7 +2,7 @@
 
 My name is Jason Zhou and I am a Software Engineering student at the University of Waterloo.
 
-#### ⚡I am open for Fall 2022 internships!
+#### ⚡I am open for Summer 2023 internships!
 #### Tech Stack
 * :hammer_and_wrench: Languages: 
   * TypeScript, Python, Java, JavaScript, C/C++, C#, HTML/CSS
