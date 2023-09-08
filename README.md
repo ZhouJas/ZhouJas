@@ -2,12 +2,12 @@
 
 Software Engineering 2025 candidate at the University of Waterloo.
 
-#### ⚡I am open for Summer 2023 internships!
+#### ⚡I am open for 2024 internships!
 #### Tech Stack
 * :hammer_and_wrench: Languages: 
-  * TypeScript, Python, Java, JavaScript, C/C++, C#, HTML/CSS
+  * TypeScript, Python, JavaScript, C, C++, Java,
 * 💻 Technologies:
-  * Node.js, Java Spring Boot, Angular, React, MongoDB, Git, GCP
+  * Angular, React, Node.js, Django, Redux, RxJS, AWS, Firestore, MongoDB
 
 
 #### Let's connect!  📫
