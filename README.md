@@ -2,7 +2,7 @@
 
 Software Engineering 2025 candidate at the University of Waterloo.
 
-#### ⚡I am open for 2024 internships!
+#### ⚡Seeking New Grad, reach out!
 #### Tech Stack
 * :hammer_and_wrench: Languages: 
   * TypeScript, Python, JavaScript, C, C++, Java,
