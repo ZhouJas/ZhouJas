@@ -1,6 +1,6 @@
 ### Hello, I'm Jason 👋
 
-Software Engineering 2025 candidate at the University of Waterloo.
+Software Engineering 2025 candidate at the University of Waterloo. Currently writing code at X (Twitter).
 
 #### ⚡Seeking New Grad, reach out!
 #### Tech Stack
