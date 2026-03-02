@@ -1,8 +1,10 @@
 ### Hello, I'm Jason 👋
 
-Software Engineering 2025 candidate at the University of Waterloo.
+University of Waterloo, Software Engineering Class of 2025.
 
-Wrote stuff at X/Twitter and Autodesk.
+Writing stuff at Bloomberg. Wrote stuff at X/Twitter and Autodesk.
+
+Mostly Infra.
 
 #### Let's connect!  📫
 * [Linkedin](https://www.linkedin.com/in/zhoujas/)
